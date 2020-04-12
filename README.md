@@ -2,9 +2,7 @@
 
 This sample app showcases Amplify Storage access levels (guest, protected, private).
 
-A demo Swift app utilizes the AWS Storage via Amplify AWS 
-
-Based on the documentations and sample iOS app at following resources:
+This project uses Swift 5.0 and develops on iOS 13.0. Based on the documentations and sample iOS app at following resources:
 
 https://aws.amazon.com/blogs/mobile/introducing-aws-amplify-for-ios-and-android/
 
